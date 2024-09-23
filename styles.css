@@ -1,0 +1,200 @@
+/* styles.css */
+
+/* 基本样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+/* 页眉导航栏 */
+header {
+    background-color: #002B5B; /* 主色调蓝色 */
+    color: #fff;
+    padding: 20px 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+.navbar a:hover {
+    color: #00BFFF; /* 辅助色蓝色 */
+}
+
+.navbar .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* 横幅区域 */
+.hero {
+    background: url('https://via.placeholder.com/1200x600') no-repeat center center/cover;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    max-width: 800px;
+}
+
+.hero .btn {
+    padding: 15px 30px;
+    background-color: #00BFFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 0 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.hero .btn:hover {
+    background-color: #009ACD;
+}
+
+/* 内容区 */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.section {
+    margin-bottom: 60px;
+}
+
+.section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 32px;
+    color: #002B5B;
+}
+
+.section p {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.features, .process, .testimonials, .partners {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.feature, .process-step, .testimonial, .partner {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    flex: 1 1 200px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.feature img, .process-step img, .testimonial img, .partner img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+.feature h3, .process-step h3, .testimonial h3, .partner h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #002B5B;
+}
+
+.feature p, .process-step p, .testimonial p, .partner p {
+    font-size: 16px;
+}
+
+/* 页脚 */
+footer {
+    background-color: #002B5B;
+    color: #fff;
+    padding: 40px 0;
+}
+
+.footer-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-section {
+    flex: 1 1 200px;
+    margin: 10px;
+}
+
+.footer-section h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.footer-section p, .footer-section a {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-section a:hover {
+    color: #00BFFF;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #fff;
+    font-size: 20px;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+    }
+    
+    .features, .process, .testimonials, .partners {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+}
