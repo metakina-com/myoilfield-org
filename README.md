@@ -1,314 +1,997 @@
-
-
-## **1. 首页（Home）**
-
-### **主要内容：**
-- **横幅区域（Hero Section）**
-  - **主标题:** 投资真实资产，开启数字财富新时代
-  - **副标题:** 通过Mo平台，利用区块链与数字孪生技术，轻松投资全球油田收益，享受透明与高效的区块链技术带来的优势。
-  - **行动按钮:** [立即注册] [了解更多]
-
-- **技术保障（Technology Assurance）**
-  - **区块链技术:** 利用区块链的去中心化和不可篡改特性，确保每一笔交易的透明和安全。
-  - **数字孪生技术:** 通过数字孪生技术，实时监控油田油井的运营状态，确保数据的准确性和实时性。
-  - **数据真实性:** 采用智能合约自动化收益分配，保证数据的真实性和操作的公正性。
-  - **视觉元素:** 图标、简短说明、相关图片或动画。
-
-- **平台优势（Why Choose Mo）**
-  - **低门槛投资:** 允许小额投资，人人皆可参与。
-  - **高流动性:** 数字代币可在全球市场自由交易。
-  - **透明收益:** 区块链技术确保收益分配透明、公正。
-  - **安全保障:** 多重安全措施保护用户资产。
-  - **视觉元素:** 图标配合简短文字说明。
-
-- **核心功能介绍（Core Features）**
-  - **Mo.w - 我的油井**
-  - **Mo.t - 我的桶油**
-  - **Mo Wallet**
-  - **Mo Coin (Mo.C)**
-  - **视觉元素:** 卡片式布局，每个功能模块配有相关图示或简短动画。
-
-- **如何运作（How It Works）**
-  - **步骤1:** 访问平台
-  - **步骤2:** 激活钱包
-  - **步骤3:** 购买油井
-  - **步骤4:** 收益分配
-  - **步骤5:** 资产管理
-  - **视觉元素:** 流程图或步骤图示。
-
-- **投资者见证（Testimonials）**
-  - **用户评价:** 展示投资者的真实反馈和成功案例。
-  - **视频见证:** 短视频采访用户。
-  
-- **社区与支持（Community & Support）**
-  - **加入社区:** 社交媒体链接（Telegram、Discord、微博等）。
-  - **常见问题:** 链接至FAQ页面。
-  - **客户支持:** 实时聊天或邮件支持选项。
-
-- **合作伙伴与媒体报道（Partners & Media）**
-  - **合作伙伴:** 展示合作企业或机构Logo。
-  - **媒体报道:** 媒体报道链接或摘要。
-
-- **页脚（Footer）**
-  - **快速链接:** 首页、产品、技术、投资者、社区、关于我们、联系信息。
-  - **法律信息:** 隐私政策、服务条款。
-  - **联系方式:** 邮箱、电话、地址。
-  - **社交媒体:** 图标链接至各大社交平台。
-
----
-
-## **2. 产品（Product）**
-
-### **主要内容：**
-- **产品概述**
-  - **简介:** 简要介绍平台提供的主要产品和服务。
-  - **视觉元素:** 产品相关图片或图标。
-
-- **Mo.w - 我的油井**
-  - **详细描述:** 介绍数字油井的功能、收益机制及投资流程。
-  - **优势:** 低门槛、高收益、可分散投资风险。
-  - **视觉元素:** 图示、用户界面截图。
-
-- **Mo.t - 我的桶油**
-  - **详细描述:** 介绍油桶代币的作用、收益分配方式及交易机制。
-  - **优势:** 每日收益、易于交易、高流动性。
-  - **视觉元素:** 图示、数据展示。
-
-- **Mo Wallet**
-  - **详细描述:** 介绍钱包的功能、支持的类型（中心化、去中心化）及安全措施。
-  - **优势:** 安全便捷、支持多种资产管理、易于使用。
-  - **视觉元素:** 界面截图、功能图示。
-
-- **Mo Coin (Mo.C)**
-  - **详细描述:** 介绍平台专用代币的用途、发行机制及持有优势。
-  - **优势:** 用于交易、支付、治理，享受平台收益分红。
-  - **视觉元素:** 代币图标、经济模型图示。
-
-- **其他产品**
-  - **Mo Exchange（Mo.E）:** 专用交易所功能介绍。
-  - **Mo Game（Mo.G）:** 游戏化功能介绍及激励机制。
-  - **Mo Land（Mo.L）:** Web3土地介绍及使用场景。
-
-- **用户案例**
-  - **成功案例:** 展示实际用户的投资案例及收益情况。
-  - **视觉元素:** 图表、图像。
-
----
-
-## **3. 技术（Technology）**
-
-### **主要内容：**
-- **技术架构**
-  - **区块链基础:** 介绍选择以太坊Layer 2/Layer 3的原因及优势。
-  - **数字孪生技术:** 详细介绍数字孪生技术的实现及在油井监控中的应用。
-  - **智能合约:** 解释智能合约在收益分配、交易中的自动化功能。
-  - **数据安全:** 描述数据加密、去中心化存储等安全措施。
-
-- **区块链安全**
-  - **去中心化:** 解释去中心化如何提升平台安全性。
-  - **不可篡改:** 描述区块链不可篡改的特点，保障投资数据的真实性。
-  - **透明性:** 通过区块链实现交易和收益分配的透明化。
-
-- **数字孪生实时监控**
-  - **实时数据:** 介绍如何通过数字孪生技术实时监控油井运营状态。
-  - **数据准确性:** 确保数据的精准和实时更新，支持投资决策。
-  - **可视化展示:** 提供油井状态的可视化界面，如3D模型、实时图表。
-
-- **智能合约自动化**
-  - **收益分配:** 解释智能合约如何自动分配每日油产出收益。
-  - **交易自动化:** 描述智能合约在资产交易中的自动执行功能。
-  - **安全审计:** 介绍智能合约的安全审计流程，确保合约代码无漏洞。
-
-- **技术白皮书**
-  - **下载链接:** 提供详细的技术白皮书下载，深入阐述平台技术细节。
-  - **摘要:** 简要概述白皮书内容，吸引用户下载阅读。
-
-- **未来技术发展**
-  - **跨链互操作性:** 介绍未来计划实现与其他区块链平台的互操作性。
-  - **技术升级:** 描述计划中的技术优化和新功能开发。
-
-- **视觉元素：**
-  - 图表、技术示意图、流程图。
-  - 交互式元素，如动画演示、点击展开详细说明。
-
----
-
-## **4. 投资者（Investors）**
-
-### **主要内容：**
-- **投资者简介**
-  - **平台优势:** 低门槛、高流动性、透明收益、安全保障。
-  - **投资机会:** 详细介绍不同投资产品（Mo.w, Mo.t等）的收益潜力及风险分散。
-
-- **投资流程**
-  - **步骤1:** 注册并激活Mo Wallet。
-  - **步骤2:** 充值资金。
-  - **步骤3:** 选择并购买Mo.w或Mo.t。
-  - **步骤4:** 收益自动分配至钱包。
-  - **步骤5:** 提现或转让资产。
-  - **视觉元素:** 流程图、步骤图示。
-
-- **收益机制**
-  - **每日收益:** 解释每日油产出收益的计算和分配方式。
-  - **代币增值:** 描述Mo Coin的价值增长潜力及持有优势。
-  - **图表展示:** 实际收益分配示意图、历史收益数据图表。
-
-- **投资者保障**
-  - **法律合规:** 平台遵守的主要法规和合规措施。
-  - **安全措施:** 多层次安全策略，包括智能合约审计、数据加密、冷存储等。
-  - **透明运营:** 定期发布财务报告、运营报告，确保信息透明。
-
-- **常见问题（FAQ）**
-  - **投资相关:** 投资门槛、收益计算、风险管理等。
-  - **技术相关:** 区块链技术、智能合约、数字孪生的应用。
-  - **账户管理:** 钱包设置、资产管理、提现流程。
-
-- **投资者资源**
-  - **白皮书:** 提供投资者专用白皮书下载。
-  - **视频教程:** 投资流程、平台使用指南的视频资源。
-  - **博客与新闻:** 最新的投资资讯、平台动态和行业新闻。
-
-- **视觉元素：**
-  - 图表、收益示意图、流程图、视频嵌入。
-
----
-
-## **5. 社区（Community）**
-
-### **主要内容：**
-- **社区简介**
-  - **平台愿景:** 描述Mo平台的社区目标和使命。
-  - **社区价值:** 强调共建、共治、共享的理念。
-
-- **社交媒体链接**
-  - **平台链接:** Telegram、Discord、微博、Twitter、Facebook等。
-  - **视觉元素:** 社交媒体图标，点击后跳转至相应平台。
-
-- **社区活动**
-  - **定期活动:** 举办线上会议、AMA（Ask Me Anything）、投资分享会等。
-  - **活动公告:** 展示即将举行的社区活动时间、主题及参与方式。
-  - **活动回顾:** 已举办活动的总结、照片或视频回顾。
-
-- **论坛与讨论**
-  - **讨论区:** 提供讨论主题，用户可以发表意见、分享经验。
-  - **热门话题:** 展示当前社区内的热门讨论内容。
-  - **版主介绍:** 介绍社区管理团队及其职责。
-
-- **奖励与激励**
-  - **奖励机制:** 介绍社区活跃用户的奖励机制，如Mo Coin空投、专属徽章等。
-  - **参与激励:** 鼓励用户参与讨论、分享和推荐，获得奖励。
-
-- **资源分享**
-  - **教程与指南:** 提供平台使用教程、投资指南等资源。
-  - **用户生成内容:** 用户分享的投资经验、成功案例等。
-
-- **视觉元素：**
-  - 活动海报、讨论区截图、奖励图标等。
-
----
-
-## **6. 关于我们（About Us）**
-
-### **主要内容：**
-- **公司简介**
-  - **公司背景:** Mo平台的创立背景、发展历程。
-  - **使命与愿景:** 描述平台的核心使命和未来愿景。
-
-- **团队介绍**
-  - **核心团队:** 介绍创始人、高管团队及其背景、专业领域。
-  - **顾问团队:** 介绍平台的技术顾问、行业顾问及其资历。
-  - **团队照片:** 高质量的团队照片，增加亲和力。
-
-- **公司文化**
-  - **价值观:** 诚信、创新、透明、用户至上等。
-  - **工作环境:** 展示公司办公环境、团队协作氛围。
-
-- **合作伙伴**
-  - **战略合作:** 介绍与平台合作的知名企业、机构。
-  - **合作案例:** 展示成功的合作案例及其成果。
-  - **合作伙伴Logo:** 显示合作伙伴的Logo，增加可信度。
-
-- **荣誉与认证**
-  - **奖项:** 获得的行业奖项、荣誉称号。
-  - **认证:** 安全认证、合规认证等。
-
-- **公司新闻**
-  - **最新动态:** 公司最新的新闻、公告。
-  - **媒体报道:** 媒体对公司的报道和评价。
-
-- **视觉元素：**
-  - 团队照片、合作伙伴Logo、奖项图标等。
-
----
-
-## **7. 联系我们（Contact Us）**
-
-### **主要内容：**
-- **联系信息**
-  - **公司地址:** 实体办公地址（如有）。
-  - **邮箱:** 官方联系邮箱。
-  - **电话:** 客服电话。
-  - **办公时间:** 客服支持的工作时间。
-
-- **在线联系表单**
-  - **表单字段:** 姓名、邮箱、主题、留言内容。
-  - **提交按钮:** [提交]
-
-- **实时聊天支持**
-  - **聊天窗口:** 提供即时聊天功能，用户可以实时与客服沟通。
-  - **响应时间:** 说明客服响应时间，提升用户信任。
-
-- **社交媒体联系**
-  - **平台链接:** Telegram、Discord、微博、Twitter、Facebook等。
-  - **视觉元素:** 社交媒体图标，点击后跳转至相应平台。
-
-- **地图展示**
-  - **嵌入地图:** 使用Google Maps或高德地图嵌入公司位置（如有）。
-  - **视觉元素:** 交互式地图，用户可以放大缩小查看。
-
-- **常见问题链接**
-  - **FAQ链接:** 提供快速链接至常见问题页面，方便用户自助查找答案。
-
-- **视觉元素：**
-  - 表单设计简洁、地图嵌入、社交媒体图标等。
-
----
-
-## **8. 常见问题（FAQ）** *(如果包含在某个页面或单独页面)*
-
-### **主要内容：**
-- **投资相关问题**
-  - 如何开始投资？
-  - 投资Mo.w和Mo.t有什么区别？
-  - 收益如何计算和分配？
-
-- **技术相关问题**
-  - 什么是区块链技术？
-  - 数字孪生技术如何应用于油井监控？
-  - 智能合约的作用是什么？
-
-- **账户管理问题**
-  - 如何注册和激活Mo Wallet？
-  - 忘记密码怎么办？
-  - 如何提现或转让资产？
-
-- **安全问题**
-  - 如何保障我的投资安全？
-  - 平台的安全措施有哪些？
-  - 如何防范账户被盗？
-
-- **其他问题**
-  - 平台的费用结构是怎样的？
-  - 如何联系客户支持？
-  - 平台未来的发展计划是什么？
-
-- **视觉元素：**
-  - 问题分类折叠式展开，用户可点击查看详细答案。
-
----
-
-## **总结**
-
-通过上述各页面的详细内容设计，您的“Mo”数字化RWA平台将能够全面、清晰地向用户展示平台的功能、技术优势、投资机会及社区互动，增强用户信任感和参与度。每个页面应保持统一的品牌风格和高质量的视觉设计，确保用户在不同设备上的良好体验。
-
-如果您需要更具体的内容编写、设计元素建议或其他方面的支持，请随时告知！
+好的，我已根据您的需求，在单页应用（SPA）的导航菜单和横幅区域中添加了“应用程序入口”的登录和注册链接，指向外部网址 [https://app.myoilfield.org/](https://app.myoilfield.org/)。具体来说，我将“注册”和“登录”按钮的链接修改为指向外部应用程序，并在横幅区域增加了一个“阅读白皮书”按钮的外部链接。
+
+以下是更新后的完整HTML代码：
+
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mo 数字化RWA平台</title>
+    <style>
+        /* 基础样式 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        /* 导航栏 */
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+
+        header nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 90%;
+            margin: 0 auto;
+        }
+
+        header .logo a {
+            font-size: 24px;
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        header .nav-links {
+            list-style: none;
+            display: flex;
+        }
+
+        header .nav-links li {
+            margin: 0 15px;
+        }
+
+        header .nav-links a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 8px 16px;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        header .nav-links a:hover {
+            background: #007bff;
+            border-radius: 4px;
+        }
+
+        header .nav-buttons a {
+            background-color: #007bff;
+            color: #fff;
+            padding: 8px 16px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-left: 10px;
+            transition: background 0.3s;
+        }
+
+        header .nav-buttons a:hover {
+            background-color: #0056b3;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: url('https://via.placeholder.com/1500x800') no-repeat center center/cover;
+            color: #fff;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 0 20px;
+            margin-top: 60px; /* 与固定导航栏高度一致 */
+        }
+
+        .hero h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        .hero p {
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+
+        .hero .cta-btn,
+        .hero .cta-btn-outline {
+            padding: 12px 30px;
+            border-radius: 4px;
+            font-size: 18px;
+            margin-right: 15px;
+            text-decoration: none;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        .hero .cta-btn {
+            background-color: #007bff;
+            color: #fff;
+        }
+
+        .hero .cta-btn-outline {
+            background-color: transparent;
+            border: 2px solid #fff;
+            color: #fff;
+        }
+
+        .hero .cta-btn:hover {
+            background-color: #0056b3;
+        }
+
+        .hero .cta-btn-outline:hover {
+            background-color: #fff;
+            color: #007bff;
+        }
+
+        /* Sections */
+        section {
+            padding: 60px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* 技术保障 */
+        .technology-assurance {
+            background-color: #fff;
+        }
+
+        .technology-assurance h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+        }
+
+        .tech-grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 20px;
+        }
+
+        .tech-item {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            width: 300px;
+            transition: transform 0.3s;
+        }
+
+        .tech-item:hover {
+            transform: translateY(-10px);
+        }
+
+        .tech-item img {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+        }
+
+        .tech-item h3 {
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+
+        /* 平台优势 */
+        .advantages {
+            background-color: #fff;
+        }
+
+        .advantages h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+        }
+
+        .advantages-grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 20px;
+        }
+
+        .adv-item {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            width: 220px;
+            transition: transform 0.3s;
+        }
+
+        .adv-item:hover {
+            transform: translateY(-10px);
+        }
+
+        .adv-item img {
+            width: 60px;
+            height: 60px;
+            margin-bottom: 20px;
+        }
+
+        .adv-item h3 {
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+
+        /* 核心功能介绍 */
+        .core-features {
+            background-color: #fff;
+        }
+
+        .core-features h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+        }
+
+        .features-grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 20px;
+        }
+
+        .feature-item {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            width: 220px;
+            transition: transform 0.3s;
+        }
+
+        .feature-item:hover {
+            transform: translateY(-10px);
+        }
+
+        .feature-item img {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+        }
+
+        .feature-item h3 {
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+
+        /* 如何运作 */
+        .how-it-works {
+            background-color: #fff;
+        }
+
+        .how-it-works h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+        }
+
+        .steps {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 20px;
+        }
+
+        .step {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            width: 200px;
+            position: relative;
+        }
+
+        .step::before {
+            content: attr(data-step);
+            position: absolute;
+            top: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #007bff;
+            color: #fff;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+        }
+
+        .step h3 {
+            margin-top: 20px;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        /* 投资者见证 */
+        .testimonials {
+            background-color: #fff;
+        }
+
+        .testimonials h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+        }
+
+        .testimonial-slider {
+            display: flex;
+            overflow-x: scroll;
+            gap: 20px;
+            padding: 0 20px;
+        }
+
+        .testimonial {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            min-width: 300px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .testimonial img {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            margin-bottom: 15px;
+        }
+
+        .testimonial p {
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+
+        .testimonial h4 {
+            text-align: right;
+            font-weight: bold;
+        }
+
+        /* 社区与支持 */
+        .community {
+            background-color: #fff;
+        }
+
+        .community h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+        }
+
+        .community-content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 20px;
+        }
+
+        .community-item {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            width: 300px;
+            text-align: center;
+            transition: transform 0.3s;
+        }
+
+        .community-item:hover {
+            transform: translateY(-10px);
+        }
+
+        .community-item img {
+            width: 60px;
+            height: 60px;
+            margin-bottom: 20px;
+        }
+
+        .community-item h3 {
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+
+        /* 合作伙伴与媒体报道 */
+        .partners-media {
+            background-color: #fff;
+        }
+
+        .partners-media h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+        }
+
+        .partners, .media {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .partners img, .media img {
+            width: 100px;
+            height: 60px;
+            object-fit: contain;
+        }
+
+        /* 关于我们 */
+        .about {
+            background-color: #fff;
+        }
+
+        .about h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+        }
+
+        .about p {
+            text-align: center;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        /* 联系我们 */
+        .contact {
+            background-color: #fff;
+        }
+
+        .contact h2 {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 32px;
+        }
+
+        .contact-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .contact form {
+            background-color: #f9f9f9;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .contact form label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .contact form input,
+        .contact form textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .contact form button {
+            background-color: #007bff;
+            color: #fff;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 4px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .contact form button:hover {
+            background-color: #0056b3;
+        }
+
+        /* 页脚 */
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        footer .footer-links {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 10px;
+        }
+
+        footer .footer-links a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 16px;
+            transition: color 0.3s;
+        }
+
+        footer .footer-links a:hover {
+            color: #007bff;
+        }
+
+        footer .social-icons {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 10px;
+        }
+
+        footer .social-icons a img {
+            width: 20px;
+            height: 20px;
+        }
+
+        footer .social-icons a:hover img {
+            filter: brightness(0) invert(1);
+        }
+
+        footer p {
+            font-size: 14px;
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+            header nav {
+                flex-direction: column;
+            }
+
+            header .nav-links {
+                flex-direction: column;
+                align-items: center;
+                display: none;
+            }
+
+            header .nav-links li {
+                margin: 10px 0;
+            }
+
+            header .nav-buttons {
+                margin-top: 10px;
+            }
+
+            .nav-toggle {
+                display: block;
+                cursor: pointer;
+                font-size: 24px;
+            }
+
+            .features-grid, .tech-grid, .advantages-grid, .steps, .community-content, .partners, .media {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+
+        /* 菜单切换按钮样式 */
+        .nav-toggle {
+            display: none;
+            color: #fff;
+        }
+
+        @media (max-width: 768px) {
+            .nav-toggle {
+                display: block;
+                position: absolute;
+                top: 15px;
+                right: 20px;
+            }
+
+            header .nav-links.active {
+                display: flex;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 导航栏 -->
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="#hero">Mo平台</a>
+            </div>
+            <div class="nav-toggle" id="nav-toggle">&#9776;</div>
+            <ul class="nav-links" id="nav-links">
+                <li><a href="#hero">首页</a></li>
+                <li><a href="#product">产品</a></li>
+                <li><a href="#technology">技术</a></li>
+                <li><a href="#investors">投资者</a></li>
+                <li><a href="#community">社区</a></li>
+                <li><a href="#about">关于我们</a></li>
+                <li><a href="#contact">联系我们</a></li>
+                <!-- 新增白皮书入口 -->
+                <li><a href="https://paper.myoilfield.org/" target="_blank">白皮书</a></li>
+            </ul>
+            <div class="nav-buttons">
+                <!-- 修改注册和登录按钮的链接指向外部应用 -->
+                <a href="https://app.myoilfield.org/register" target="_blank">注册</a>
+                <a href="https://app.myoilfield.org/login" target="_blank">登录</a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+        <div class="hero-content">
+            <h1>投资真实资产，开启数字财富新时代</h1>
+            <p>通过Mo平台，利用区块链与数字孪生技术，轻松投资全球油田收益，享受透明与高效的区块链技术带来的优势。</p>
+            <!-- 修改“立即注册”按钮的链接指向外部应用 -->
+            <a href="https://app.myoilfield.org/register" class="cta-btn" target="_blank">立即注册</a>
+            <a href="https://paper.myoilfield.org/" class="cta-btn-outline" target="_blank">阅读白皮书</a>
+        </div>
+    </section>
+
+    <!-- 技术保障 -->
+    <section class="technology-assurance" id="technology">
+        <h2>技术保障</h2>
+        <div class="tech-grid">
+            <div class="tech-item">
+                <img src="https://via.placeholder.com/80" alt="区块链图标">
+                <h3>区块链技术</h3>
+                <p>利用区块链的去中心化和不可篡改特性，确保每一笔交易的透明和安全。</p>
+            </div>
+            <div class="tech-item">
+                <img src="https://via.placeholder.com/80" alt="数字孪生图标">
+                <h3>数字孪生技术</h3>
+                <p>通过数字孪生技术，实时监控油田油井的运营状态，确保数据的准确性和实时性。</p>
+            </div>
+            <div class="tech-item">
+                <img src="https://via.placeholder.com/80" alt="智能合约图标">
+                <h3>智能合约</h3>
+                <p>采用智能合约自动化收益分配，保证数据的真实性和操作的公正性。</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 平台优势 -->
+    <section class="advantages" id="advantages">
+        <h2>为什么选择Mo平台</h2>
+        <div class="advantages-grid">
+            <div class="adv-item">
+                <img src="https://via.placeholder.com/60" alt="低门槛投资">
+                <h3>低门槛投资</h3>
+                <p>允许小额投资，人人皆可参与。</p>
+            </div>
+            <div class="adv-item">
+                <img src="https://via.placeholder.com/60" alt="高流动性">
+                <h3>高流动性</h3>
+                <p>数字代币可在全球市场自由交易。</p>
+            </div>
+            <div class="adv-item">
+                <img src="https://via.placeholder.com/60" alt="透明收益">
+                <h3>透明收益</h3>
+                <p>区块链技术确保收益分配透明、公正。</p>
+            </div>
+            <div class="adv-item">
+                <img src="https://via.placeholder.com/60" alt="安全保障">
+                <h3>安全保障</h3>
+                <p>多重安全措施（如智能合约、加密技术）保护用户资产。</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 核心功能介绍 -->
+    <section class="core-features" id="product">
+        <h2>我们的产品</h2>
+        <div class="features-grid">
+            <div class="feature-item">
+                <img src="https://via.placeholder.com/80" alt="我的油井">
+                <h3>Mo.w - 我的油井</h3>
+                <p>拥有并管理您的数字油井，分享实际油田收益。</p>
+            </div>
+            <div class="feature-item">
+                <img src="https://via.placeholder.com/80" alt="我的桶油">
+                <h3>Mo.t - 我的桶油</h3>
+                <p>持有油桶代币，享受每日油产出的收益分配。</p>
+            </div>
+            <div class="feature-item">
+                <img src="https://via.placeholder.com/80" alt="Mo Wallet">
+                <h3>Mo Wallet</h3>
+                <p>安全便捷的数字钱包，支持中心化与去中心化管理。</p>
+            </div>
+            <div class="feature-item">
+                <img src="https://via.placeholder.com/80" alt="Mo Coin">
+                <h3>Mo Coin (Mo.C)</h3>
+                <p>平台专用代币，用于交易、支付和治理。</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 如何运作 -->
+    <section class="how-it-works" id="how-it-works">
+        <h2>如何运作</h2>
+        <div class="steps">
+            <div class="step" data-step="1">
+                <h3>访问平台</h3>
+                <p>通过DApp轻松进入Mo平台。</p>
+            </div>
+            <div class="step" data-step="2">
+                <h3>激活钱包</h3>
+                <p>设置您的Mo Wallet，选择中心化或去中心化钱包。</p>
+            </div>
+            <div class="step" data-step="3">
+                <h3>购买油井</h3>
+                <p>充值资金并购买Mo.w（数字油井）。</p>
+            </div>
+            <div class="step" data-step="4">
+                <h3>收益分配</h3>
+                <p>每日油产出（Mo.t）自动分配到您的钱包。</p>
+            </div>
+            <div class="step" data-step="5">
+                <h3>资产管理</h3>
+                <p>提现或通过DEX转让您的资产。</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 投资者见证 -->
+    <section class="testimonials" id="testimonials">
+        <h2>投资者见证</h2>
+        <div class="testimonial-slider">
+            <div class="testimonial">
+                <img src="https://via.placeholder.com/60" alt="用户头像">
+                <p>“通过Mo平台，我轻松投资了全球油田，收益稳定且透明。”</p>
+                <h4>— 李先生</h4>
+            </div>
+            <div class="testimonial">
+                <img src="https://via.placeholder.com/60" alt="用户头像">
+                <p>“区块链和数字孪生技术让我对投资更加放心，收益分配非常透明。”</p>
+                <h4>— 张女士</h4>
+            </div>
+            <div class="testimonial">
+                <img src="https://via.placeholder.com/60" alt="用户头像">
+                <p>“Mo平台的智能合约自动化操作节省了我很多时间，收益稳定增长。”</p>
+                <h4>— 王先生</h4>
+            </div>
+        </div>
+    </section>
+
+    <!-- 社区与支持 -->
+    <section class="community" id="community">
+        <h2>社区与支持</h2>
+        <div class="community-content">
+            <div class="community-item">
+                <img src="https://via.placeholder.com/60" alt="社交媒体">
+                <h3>加入我们的社区</h3>
+                <p>通过Telegram、Discord和微博等平台与其他投资者互动，获取最新资讯和支持。</p>
+                <a href="#" class="cta-btn-outline">加入社区</a>
+            </div>
+            <div class="community-item">
+                <img src="https://via.placeholder.com/60" alt="常见问题">
+                <h3>常见问题</h3>
+                <p>在我们的FAQ页面找到您需要的答案，了解更多关于平台的信息。</p>
+                <a href="#faq" class="cta-btn-outline">查看FAQ</a>
+            </div>
+            <div class="community-item">
+                <img src="https://via.placeholder.com/60" alt="客户支持">
+                <h3>客户支持</h3>
+                <p>我们的客服团队随时为您提供帮助，解决您在使用平台过程中遇到的问题。</p>
+                <a href="#contact" class="cta-btn-outline">联系我们</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- 合作伙伴与媒体报道 -->
+    <section class="partners-media" id="partners-media">
+        <h2>合作伙伴与媒体报道</h2>
+        <div class="partners">
+            <img src="https://via.placeholder.com/100x60" alt="合作伙伴1">
+            <img src="https://via.placeholder.com/100x60" alt="合作伙伴2">
+            <img src="https://via.placeholder.com/100x60" alt="合作伙伴3">
+            <img src="https://via.placeholder.com/100x60" alt="合作伙伴4">
+        </div>
+        <div class="media">
+            <img src="https://via.placeholder.com/100x60" alt="媒体报道1">
+            <img src="https://via.placeholder.com/100x60" alt="媒体报道2">
+            <img src="https://via.placeholder.com/100x60" alt="媒体报道3">
+            <img src="https://via.placeholder.com/100x60" alt="媒体报道4">
+        </div>
+    </section>
+
+    <!-- 关于我们 -->
+    <section class="about" id="about">
+        <h2>关于我们</h2>
+        <p>Mo平台致力于通过区块链和数字孪生技术，为投资者提供安全、透明、高效的油田投资解决方案。我们的团队由行业专家和技术精英组成，致力于打造全球领先的数字化RWA平台。</p>
+    </section>
+
+    <!-- 联系我们 -->
+    <section class="contact" id="contact">
+        <h2>联系我们</h2>
+        <div class="contact-content">
+            <form action="#" method="POST">
+                <label for="name">姓名</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">邮箱</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="subject">主题</label>
+                <input type="text" id="subject" name="subject" required>
+
+                <label for="message">留言</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit" class="cta-btn">提交</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- 页脚 -->
+    <footer>
+        <ul class="footer-links">
+            <li><a href="#hero">首页</a></li>
+            <li><a href="#product">产品</a></li>
+            <li><a href="#technology">技术</a></li>
+            <li><a href="#investors">投资者</a></li>
+            <li><a href="#community">社区</a></li>
+            <li><a href="#about">关于我们</a></li>
+            <li><a href="#contact">联系我们</a></li>
+        </ul>
+        <ul class="social-icons">
+            <li><a href="#"><img src="https://via.placeholder.com/20" alt="Telegram"></a></li>
+            <li><a href="#"><img src="https://via.placeholder.com/20" alt="Discord"></a></li>
+            <li><a href="#"><img src="https://via.placeholder.com/20" alt="微博"></a></li>
+            <li><a href="#"><img src="https://via.placeholder.com/20" alt="Twitter"></a></li>
+            <li><a href="#"><img src="https://via.placeholder.com/20" alt="Facebook"></a></li>
+        </ul>
+        <p>&copy; 2024 Mo平台. 保留所有权利.</p>
+    </footer>
+
+    <!-- 简单的JavaScript用于导航菜单切换 -->
+    <script>
+        const navToggle = document.getElementById('nav-toggle');
+        const navLinks = document.getElementById('nav-links');
+
+        navToggle.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+
+        // 平滑滚动效果
+        const links = document.querySelectorAll('a[href^="#"]');
+
+        for (const link of links) {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    window.scrollTo({
+                        top: target.offsetTop - 60, // 减去导航栏高度
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        }
+    </script>
+</body>
+</html>
+```
+
+### **更新内容说明**
+
+1. **导航菜单中新增“白皮书”链接**
+    ```html
+    <!-- 新增白皮书入口 -->
+    <li><a href="https://paper.myoilfield.org/" target="_blank">白皮书</a></li>
+    ```
+    - **位置**：添加在导航菜单的 `<ul class="nav-links">` 列表中。
+    - **功能**：点击“白皮书”链接将在新标签页中打开白皮书网址，方便用户访问详细文档。
+
+2. **修改“注册”和“登录”按钮的链接**
+    ```html
+    <div class="nav-buttons">
+        <!-- 修改注册和登录按钮的链接指向外部应用 -->
+        <a href="https://app.myoilfield.org/register" target="_blank">注册</a>
+        <a href="https://app.myoilfield.org/login" target="_blank">登录</a>
+    </div>
+    ```
+    - **功能**：将“注册”和“登录”按钮的链接修改为指向外部应用程序的注册和登录页面。
+    - **属性**：添加 `target="_blank"`，确保链接在新标签页中打开，用户不会离开当前网站。
+
+3. **横幅区域（Hero Section）新增“阅读白皮书”按钮**
+    ```html
+    <a href="https://app.myoilfield.org/register" class="cta-btn" target="_blank">立即注册</a>
+    <a href="https://paper.myoilfield.org/" class="cta-btn-outline" target="_blank">阅读白皮书</a>
+    ```
+    - **功能**：在横幅区域增加一个“阅读白皮书”按钮，指向白皮书网址，提供更直观的访问入口。
+
+### **进一步优化建议**
+
+1. **替换占位符图像**
+    - 将所有 `https://via.placeholder.com/...` 的占位符图像链接替换为实际的图标和图片，以提升网站的专业性和视觉效果。
+
+2. **优化导航体验**
+    - **移动端优化**：确保在移动设备上，导航菜单能够顺畅展开和收起。当前的JavaScript已经实现了简单的汉堡菜单功能。
+    - **ARIA标签**：为导航和按钮添加ARIA标签，以提升无障碍访问性。
+
+3. **增强用户体验**
+    - **模态窗口**：考虑为“阅读白皮书”按钮添加模态窗口，用户点击后可以在当前页面预览或下载白皮书，而不是直接跳转。
+    - **动画效果**：增加更多的CSS动画和过渡效果，提升网站的动态感和用户互动体验。
+
+4. **SEO优化**
+    - **Meta标签**：为页面添加更多的Meta标签，如关键词和描述，以提升搜索引擎排名。
+    - **语义化HTML**： 使用更具语义化的HTML标签（如 `<article>`、`<aside>` 等）来结构化内容，增强SEO效果。
+
+5. **后端集成**
+    - **动态内容**：如果需要动态加载内容或用户认证功能，可以集成后端技术（如Node.js、Python、PHP）和数据库（如MySQL、MongoDB）。
+    - **区块链交互**： 使用Web3.js或其他库与区块链进行交互，实现智能合约调用和交易功能。
+
+6. **表单处理**
+    - **后端处理**： 为联系表单添加后端处理逻辑，确保用户提交的信息能够被正确接收和处理。
+    - **表单验证**： 增加前端和后端的表单验证，确保用户输入的准确性和安全性。
+
+### **完整布局结构概览**
+
+以下是更新后的单页应用结构概览，帮助您更直观地理解页面布局：
+
+```
+----------------------------------------------------
+| Logo | 首页 | 产品 | 技术 | 投资者 | 社区 | 关于我们 | 联系我们 | 白皮书 | 注册/登录 |
+----------------------------------------------------
+|                     横幅区域                    |
+|  主标题：投资真实资产，开启数字财富新时代       |
+|  副标题：通过Mo平台，利用区块链与数字孪生技术… |
+|  [立即注册] [阅读白皮书]                          |
+----------------------------------------------------
+|                技术保障（区块链 & 数字孪生）      |
+|  区块链技术 | 数字孪生技术 | 智能合约               |
+----------------------------------------------------
+|                平台优势（四列图标）              |
+|  低门槛投资 | 高流动性 | 透明收益 | 安全保障     |
+----------------------------------------------------
+|                核心功能介绍（四卡片）            |
+|  Mo.w | Mo.t | Mo Wallet | Mo Coin               |
+----------------------------------------------------
+|                如何运作（五步流程图）            |
+|  1. 访问平台 | 2. 激活钱包 | 3. 购买油井 | …      |
+----------------------------------------------------
+|               投资者见证（轮播图）               |
+|  用户评价1 | 用户评价2 | 用户评价3               |
+----------------------------------------------------
+|           社区与支持（社交链接 & FAQ）           |
+|  加入社区 | 常见问题 | 客户支持                   |
+----------------------------------------------------
+|    合作伙伴与媒体报道（Logo & 链接轮播）         |
+----------------------------------------------------
+|                      关于我们                     |
+|  Mo平台致力于通过区块链和数字孪生技术…         |
+----------------------------------------------------
+|                      联系我们                     |
+|  联系表单                                     |
+----------------------------------------------------
+|                      页脚                       |
+|  快速链接 | 社交媒体 | 版权信息                   |
+----------------------------------------------------
+```
+
+### **总结**
+
+通过上述修改，您的“Mo”数字化RWA平台网站不仅具备了完整的导航菜单和各个页面的内容展示，还为用户提供了便捷的“白皮书”访问入口和应用程序的登录/注册入口。这将进一步提升网站的专业性和用户体验，增强用户对平台的信任和参与意愿。
+
+如果您需要进一步的功能扩展、样式调整或其他方面的支持，请随时告知！
